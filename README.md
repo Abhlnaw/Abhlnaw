@@ -66,6 +66,12 @@ Exploring player and team performance, recent trends, comparisons, and league co
 </td>
 <td width="50%" valign="top">
 
+<details open>
+<summary><b><a href="https://github.com/Abhlnaw/Accelerando">Accelerando</a></b> · teaching music using machine learning</summary>
+<br/>
+A learning project for TidalByte focused on making learning music alone more accessible to everyone. 
+</details>
+
 </td>
 </tr>
 </table>
